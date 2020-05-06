@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.amazon.in/gp/product/B07DM669SB/ref=ppx_yo_dt_b_asin_image_o06_s00?ie=UTF8&psc=1"
+}
